@@ -54,6 +54,74 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Ex_a.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_b.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_c.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_d.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_e.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_f.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_g.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_h.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_i.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_j.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_k.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_l.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_m.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_n.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_o.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_p.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ex_q.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -61,6 +129,57 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ex_a.xaml.cs">
+      <DependentUpon>Ex_a.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_b.xaml.cs">
+      <DependentUpon>Ex_b.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_c.xaml.cs">
+      <DependentUpon>Ex_c.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_d.xaml.cs">
+      <DependentUpon>Ex_d.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_e.xaml.cs">
+      <DependentUpon>Ex_e.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_f.xaml.cs">
+      <DependentUpon>Ex_f.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_g.xaml.cs">
+      <DependentUpon>Ex_g.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_h.xaml.cs">
+      <DependentUpon>Ex_h.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_i.xaml.cs">
+      <DependentUpon>Ex_i.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_j.xaml.cs">
+      <DependentUpon>Ex_j.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_k.xaml.cs">
+      <DependentUpon>Ex_k.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_l.xaml.cs">
+      <DependentUpon>Ex_l.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_m.xaml.cs">
+      <DependentUpon>Ex_m.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_n.xaml.cs">
+      <DependentUpon>Ex_n.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_o.xaml.cs">
+      <DependentUpon>Ex_o.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_p.xaml.cs">
+      <DependentUpon>Ex_p.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ex_q.xaml.cs">
+      <DependentUpon>Ex_q.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

@@ -5,8 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Modul_02"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="450">
     <Grid>
-        
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <Button Content="Задание а." x:Name="Button_a" Click="Button_a_Click"></Button>
+                <Button Content="Задание b." x:Name="Button_b" Click="Button_b_Click"></Button>
+                <Button Content="Задание c." x:Name="Button_c" Click="Button_c_Click"></Button>
+                <Button Content="Задание d." x:Name="Button_d" Click="Button_d_Click"></Button>
+                <Button Content="Задание e." x:Name="Button_e" Click="Button_e_Click"></Button>
+                <Button Content="Задание f." x:Name="Button_f" Click="Button_f_Click"></Button>
+                <Button Content="Задание g." x:Name="Button_g" Click="Button_g_Click"></Button>
+                <Button Content="Задание h." x:Name="Button_h" Click="Button_h_Click"></Button>
+                <Button Content="Задание i." x:Name="Button_i" Click="Button_i_Click"></Button>
+                <Button Content="Задание j." x:Name="Button_j" Click="Button_j_Click"></Button>
+                <Button Content="Задание k." x:Name="Button_k" Click="Button_k_Click"></Button>
+                <Button Content="Задание l." x:Name="Button_l" Click="Button_l_Click"></Button>
+                <Button Content="Задание m." x:Name="Button_m" Click="Button_m_Click"></Button>
+                <Button Content="Задание n." x:Name="Button_n" Click="Button_n_Click"></Button>
+                <Button Content="Задание o." x:Name="Button_o" Click="Button_o_Click"></Button>
+                <Button Content="Задание p." x:Name="Button_p" Click="Button_p_Click"></Button>
+                <Button Content="Задание q." x:Name="Button_q" Click="Button_q_Click"></Button>
+            </StackPanel>
+        </ScrollViewer>
     </Grid>
 </Window>
